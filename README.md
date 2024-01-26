@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Deepakkadiri
-- 👀 I’m interested in ...Real Time Projects
-- 🌱 I’m currently learning ... Java
 - 📫 reach me @deepak162025@gmail.com
 
 <!---
